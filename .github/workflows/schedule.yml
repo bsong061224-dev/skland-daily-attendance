@@ -9,7 +9,7 @@ on:
       SKLAND_TOKENS:
         required: true
       SKLAND_NOTIFICATION_URLS:
-        required: false
+        required: true
       SKLAND_ANONYMOUS:
         required: false
       MAX_RETRIES:
